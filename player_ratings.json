@@ -1,0 +1,34 @@
+[
+  {
+    "player":"player1",
+    "rating":4.35
+  },
+  {
+    "player":"player2",
+    "rating":4.7
+  },
+  {
+    "player":"player3",
+    "rating":4.69
+  },
+  {
+    "player":"player4",
+    "rating":4.95
+  },
+  {
+    "player":"player5",
+    "rating":4.17
+  },
+  {
+    "player":"player6",
+    "rating":4.88
+  },
+  {
+    "player":"player7",
+    "rating":4.81
+  },
+  {
+    "player":"player8",
+    "rating":4.01
+  }
+]

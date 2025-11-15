@@ -1,0 +1,13 @@
+game_id,team1_player1,team1_player2,team2_player1,team2_player2,team1_score,team2_score,team1_player1_rating,team1_player2_rating,team2_player1_rating,team2_player2_rating
+g1,player1,player2,player3,player4,11,7,4.35,4.7,4.69,4.95
+g2,player5,player6,player7,player8,9,11,4.17,4.88,4.81,4.01
+g3,player1,player2,player5,player6,15,13,4.35,4.7,4.17,4.88
+g4,player3,player4,player7,player8,11,9,4.69,4.95,4.81,4.01
+g5,player1,player2,player7,player8,9,11,4.35,4.7,4.81,4.01
+g6,player3,player4,player5,player6,13,11,4.69,4.95,4.17,4.88
+g7,player1,player2,player3,player4,12,10,4.35,4.7,4.69,4.95
+g8,player5,player6,player7,player8,11,5,4.17,4.88,4.81,4.01
+g9,player1,player2,player5,player6,11,9,4.35,4.7,4.17,4.88
+g10,player3,player4,player7,player8,14,12,4.69,4.95,4.81,4.01
+g11,player1,player2,player7,player8,11,4,4.35,4.7,4.81,4.01
+g12,player3,player4,player5,player6,9,11,4.69,4.95,4.17,4.88
