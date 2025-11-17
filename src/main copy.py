@@ -70,11 +70,6 @@ def plot_rating_trajectory(game_labels, ra_vals, rb_vals, rc_vals, rd_vals):
     plt.tight_layout()
     plt.show()
 
-
-#########
-# MAIN ##
-###### ##
-
 # --- PRINT CONSTANTS BEFORE ANYTHING ELSE ---
 print_constants(SCALE, CURVE, CRF)
 
@@ -84,7 +79,6 @@ ra_vals = [team1["Ra"]]
 rb_vals = [team1["Rb"]]
 rc_vals = [team2["Rc"]]
 rd_vals = [team2["Rd"]]
-
 
 # --- Run the sequence with horizontal-friendly output ---
 for g in games:
@@ -107,7 +101,6 @@ for g in games:
           f"T2: Rc={new_team2['Rc']:.3f}, Rd={new_team2['Rd']:.3f}")
 
     # Record post-game ratings
-    # build the arrays used for plotting
     game_labels.append(f"G{game}")
     ra_vals.append(new_team1["Ra"])
     rb_vals.append(new_team1["Rb"])
