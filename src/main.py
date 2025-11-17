@@ -73,7 +73,7 @@ def plot_rating_trajectory(game_labels, ra_vals, rb_vals, rc_vals, rd_vals):
 
 ###################
 # MAIN ############
-###### ############
+###### ############. 
 
 # --- PRINT CONSTANTS BEFORE ANYTHING ELSE ---
 print_constants(SCALE, CURVE, CRF)
